@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{A3FF2DB9-1FF8-7156-6E16-83FE3D041E3E}") = "Gravity Battle", "Assembly-CSharp-firstpass.csproj", "{11DAD778-CA35-2CA4-7F6A-F3E0D8AC8E3B}"
+EndProject
+Project("{A3FF2DB9-1FF8-7156-6E16-83FE3D041E3E}") = "Gravity Battle", "Assembly-UnityScript-firstpass.unityproj", "{22D0C107-82C5-ED1A-7FA0-81AB324AAC09}"
+EndProject
+Project("{A3FF2DB9-1FF8-7156-6E16-83FE3D041E3E}") = "Gravity Battle", "Assembly-UnityScript.unityproj", "{EEF36436-98D3-596D-C130-4585EF48391F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11DAD778-CA35-2CA4-7F6A-F3E0D8AC8E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DAD778-CA35-2CA4-7F6A-F3E0D8AC8E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DAD778-CA35-2CA4-7F6A-F3E0D8AC8E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DAD778-CA35-2CA4-7F6A-F3E0D8AC8E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D0C107-82C5-ED1A-7FA0-81AB324AAC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D0C107-82C5-ED1A-7FA0-81AB324AAC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D0C107-82C5-ED1A-7FA0-81AB324AAC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D0C107-82C5-ED1A-7FA0-81AB324AAC09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF36436-98D3-596D-C130-4585EF48391F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF36436-98D3-596D-C130-4585EF48391F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF36436-98D3-596D-C130-4585EF48391F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF36436-98D3-596D-C130-4585EF48391F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

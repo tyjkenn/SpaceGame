@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{A3FF2DB9-1FF8-7156-6E16-83FE3D041E3E}") = "Gravity Battle", "Assembly-CSharp-firstpass-vs.csproj", "{11DAD778-CA35-2CA4-7F6A-F3E0D8AC8E3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11DAD778-CA35-2CA4-7F6A-F3E0D8AC8E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DAD778-CA35-2CA4-7F6A-F3E0D8AC8E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DAD778-CA35-2CA4-7F6A-F3E0D8AC8E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DAD778-CA35-2CA4-7F6A-F3E0D8AC8E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

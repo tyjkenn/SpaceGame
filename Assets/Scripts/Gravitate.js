@@ -1,4 +1,4 @@
-var gravitationalConstant = 5;
+var gravitationalConstant = 5.0;
 
 function FixedUpdate () {
 	var planets = GameObject.FindGameObjectsWithTag("Planet");

@@ -5,7 +5,13 @@ private var btnY:float;
 private var btnW:float;
 private var btnH:float;
 private var refreshing:boolean;
-private var hostData:HostData;
+//private var hostData:HostData;
+MasterServer.ipAddress = "10.2.100.19";
+MasterServer.port = 23466;
+Network.natFacilitatorIP = "10.2.100.19";
+Network.natFacilitatorPort = 23466;
+
+
 
 function Start(){
 	btnX = Screen.width *.05;
@@ -19,8 +25,7 @@ function Update() {
 		if(MasterServer.PollHostList().Length>0) {
 			refreshing = false;
 			Debug.Log(MasterServer.PollHostList().Length);
-			hostData = MasterServer.PollHostList();
-			
+			//hostData = MasterServer.PollHostList();
 		}
 	}
 }
@@ -66,7 +71,7 @@ function OnGUI () {
 		refreshHostList();
 	}
 	
-	for(var i:int = 0; i <hostData.length; i++){
+	/*for(var i:int = 0; i <hostData.length; i++){
 		GUI.Button(Rect(btnX*1.5,btnY*1.2*(btnH*i),btnW*3,btnH*.5), hostData[i].gameName);
-	}
+	}*/
 }

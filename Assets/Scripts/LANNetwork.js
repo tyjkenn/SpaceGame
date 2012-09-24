@@ -1,3 +1,4 @@
+/*
 var remoteIP = "127.0.0.1";
 var remotePort = 25000;
 var listenPort = 25000;
@@ -49,4 +50,4 @@ function OnGUI () {
 			Network.Disconnect(200);
 		}
 	}
-}
+}*/

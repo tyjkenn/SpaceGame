@@ -9,9 +9,10 @@ function Start(){
 		var rad = ((Mathf.PI*2)/amount)*i;
 		var xPos = Mathf.Sin(rad)*diameter+Random.Range(-maxOffset,maxOffset);
 		var yPos = Mathf.Cos(rad)*diameter+Random.Range(-maxOffset,maxOffset);
+		var zOffset = Random.Range(-maxOffset,maxOffset);
 		var a : Transform;
 		a = Instantiate(asteroid, 
-			Vector3(xPos,yPos,0),
+			Vector3(xPos,yPos,zOffset),
 			transform.rotation
 		);
 		a.transform.parent = this.transform;

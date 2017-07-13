@@ -1,10 +1,10 @@
-======Space Game======
+#Space Game
 
 I really need to come up with a real title for this game, but essentially, the
 object of the game is to defend earth from attacking aliens. You fly a ship
 around with a friend and try to zap aliens before they reach Earth.
 
-======Compiling Instructions======
+##Compiling Instructions
 
 So, the game file is actually quite large, so I only included in this directory
 this readme and some of the most notable code files, the ones I actually made
@@ -22,10 +22,18 @@ You do want to build the project yourself, you will need to do the following:
      Build option. It will prompt you for path for the windows executable and
      build in that location.
 
-======Current state of the project======
+#Current state of the project
+
 Unfortunately, I did not have time to work out all of the bugs in the game. Also,
 adding the networking introduced some bugs in other parts of the game that I still
 have not fixed. The only game mode that works is Earth Defense. Start a game by
 choosing the LAN Host(H) option on the right. Others clients can then join the
 game by entering the server's IP address in the box and then choosing the LAN
 Client(C) option. It currently tries to run on port 7777.
+
+#Controls
+
+WASD: Change direction
+SPACE: Thrust forward.
+Left Click: Zap a nearby enemy
+Right Click (Hold): Stabilize the ship to stop spinning out of control.

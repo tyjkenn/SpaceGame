@@ -7,6 +7,6 @@ function FixedUpdate () {
 		var unitVector = planet.transform.position-transform.position;
 		var sum = unitVector.x+unitVector.y+unitVector.z;
 		unitVector /= Mathf.Abs(sum);
-		rigidbody.AddForce((unitVector/distance)*gravitationalConstant);
+		GetComponent.<Rigidbody>().AddForce((unitVector/distance)*gravitationalConstant);
 	}
 }

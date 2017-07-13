@@ -1,0 +1,44 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.15.11.8593]
+    Renderer: NVIDIA Quadro NVS 290 (Microsoft Corporation - WDDM v1.1)
+    Vendor:   NVIDIA
+    VRAM:     1136 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\MKGlowSystem.dll (this message is harmless)
+Loading C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\MKGlowSystem.dll into Unity Child Domain
+- Completed reload, in  0.263 seconds
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\TY\Documents\gravi-dual-3d\Docs\prototype1_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Shader 'Legacy Shaders/Self-Illumin/Parallax Specular': fallback shader 'Legacy Shaders/Self-Illumin/Bumped Specular' not found
+UnloadTime: 0.895841 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 371.
+Total: 0.315494 ms (FindLiveObjects: 0.026006 ms CreateObjectMapping: 0.031481 ms MarkObjects: 0.252532 ms  DeleteObjects: 0.004448 ms)
+

@@ -15,7 +15,7 @@ executable that I already built based on the code as it was on July 12, 2017. If
 You do want to build the project yourself, you will need to do the following:
 
   1. Download Unity from http://unity3d.com.
-  2. Clone the repository.
+  2. Clone the repository from https://github.com/tyjkenn/SpaceGame.git.
   3. Open the project in Unity. Unity will then generate some files that are used
      by the Unity Editor but that were not in the repository.
   4. Go to Project -> Build Settings. Selected Windows Standalone and choose the
